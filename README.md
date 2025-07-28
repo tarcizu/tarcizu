@@ -42,6 +42,8 @@ ___
 [![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens)](https://github.com/auth0/node-jsonwebtoken)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B.svg?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Alexa](https://img.shields.io/badge/-Alexa-52b5f7?style=for-the-badge&logo=amazonalexa)](https://developer.amazon.com/alexa)
